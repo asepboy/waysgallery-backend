@@ -1,7 +1,0 @@
-version: '3.9'
-services:
- backend:
-  container_name: waysgallery-backend
-  image: asep58/waysgallery-backend:1.1
-  ports:
-   - 5000:5000
